@@ -9,18 +9,18 @@ Built with a sleek, modern Cyber aesthetic, **asciieeey** focuses on visual exce
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time ASCII Rendering**: Smooth, high-performance conversion of video frames to characters.
 - **Visual Profiles**: Switch between different rendering styles:
-  - ⚡ **Cyber**: High-contrast, neon-inspired character set.
-  - 🎯 **Sharp**: High-resolution detail for crisp visuals.
-  - 📝 **Detailed**: Wide character range for smooth gradients.
-  - 🔠 **Alphanum**: Classic alphanumeric terminal look.
+  -  **Cyber**: High-contrast, neon-inspired character set.
+  -  **Sharp**: High-resolution detail for crisp visuals.
+  -  **Detailed**: Wide character range for smooth gradients.
+  -  **Alphanum**: Classic alphanumeric terminal look.
 - **Customizable Aesthetics**: Tailor the look with adjustable colors and character sets.
 - **One-Click Screenshots**: Capture and download your favorite ASCII moments instantly.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ Built with a sleek, modern Cyber aesthetic, **asciieeey** focuses on visual exce
    npm run build
    ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Svelte 5](https://svelte.dev/)
 - **Bundler**: [Vite](https://vitejs.dev/)
