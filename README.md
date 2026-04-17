@@ -4,8 +4,8 @@ A high-fidelity, real-time ASCII camera application that transforms your webcam 
 
 Built with a sleek, modern Cyber aesthetic, **asciieeey** focuses on visual excellence and performance, allowing you to experience your world through a matrix of characters.
 
-![asciieeey Capture Example](<img width="2028" height="1268" alt="ascii-capture-1776411624352" src="https://github.com/user-attachments/assets/04467acb-cc22-46fe-a194-e59fba8dbd84" />
-) *
+![asciieeey Capture Example] <img width="2028" height="1268" alt="ascii-capture-1776411624352" src="https://github.com/user-attachments/assets/04467acb-cc22-46fe-a194-e59fba8dbd84" />
+
 
 ---
 
