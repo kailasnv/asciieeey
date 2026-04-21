@@ -31,7 +31,7 @@ Built with a sleek, modern Cyber aesthetic, **asciieeey** focuses on visual exce
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/asciieeey.git
+   git clone https://github.com/kailasnv/asciieeey.git
    cd asciieeey
    ```
 
